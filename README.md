@@ -1,16 +1,42 @@
-## Hi there 👋
+### Hi there, I'm Syed Muzakkir 👋
 
-<!--
-**te2Muzakkir/te2Muzakkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Java Developer** with **10+ years** of experience in building scalable and efficient web applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate about **backend development**, **databases**, and optimizing **web applications**.
+- Experienced in **full-stack development** with expertise in Java-based frameworks.
+- Love exploring new technologies and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 🔹 Backend
+Java, J2EE, Spring Boot, Spring MVC, Struts2, Servlets, Hibernate, JPA  
+
+### 🔹 Database
+MySQL, PostgreSQL, Oracle  
+
+### 🔹 Frontend
+HTML, CSS, JavaScript, jQuery, Bootstrap, JSP, JSTL  
+
+### 🔹 Operating Systems
+Ubuntu, Windows  
+
+### 🔹 Application Servers
+JBoss 4.2.x, Wildfly 10, Tomcat 9  
+
+### 🔹 Tools & Technologies
+Jira, Bugzilla, iReports, SonarQube, SVN, Git, RTC, ChatGPT  
+**Also familiar with:** Jenkins, Docker, Angular  
+
+## 📂 Projects
+<!-- List your projects here -->
+- 🚧 *Work in Progress...*
+
+## 🔗 Links
+<!-- Add your website, blog, or social media links here -->
+- 🌐 [Portfolio](#)  
+- 📝 [Blog](#)  
+- 💼 [LinkedIn](#)  
+
+---
+
