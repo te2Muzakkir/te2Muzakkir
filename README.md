@@ -55,10 +55,5 @@ I'm a **Full Stack Java Developer** with **10+ years** of experience in building
 🚧 *Work in Progress...*  
 
 ## 🔗 Links  
-- 🌐 [Portfolio](#)  
-- 📝 [Blog](#)  
-- 💼 [LinkedIn](#)  
+- 
 
----
-
-⭐ **Let's connect and build something amazing!** 🚀  
